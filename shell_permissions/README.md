@@ -6,3 +6,7 @@
 
  2.Empty!
  Script creates an empy file called "hello"
+
+ 3.Execute
+ Script adds execute permission to the owner of the file "hello"
+
