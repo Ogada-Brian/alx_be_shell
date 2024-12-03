@@ -3,3 +3,6 @@
 
  1.Who am I
  Prints the effective username of the current user
+
+ 2.Empty!
+ Script creates an empy file called "hello"
