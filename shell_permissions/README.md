@@ -13,3 +13,7 @@
 4.Multiple permissions
 The script adds execute permission to the owner and the group owner, and read permission to other users,
 to the file "hello"
+
+5.John Doe
+The script sets the mode of the file "hello" to
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
