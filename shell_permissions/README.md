@@ -1,4 +1,4 @@
-0.My name is Betty
+  0.My name is Betty
  The script switches curren user to the user "betty" using the "su" command
 
  1.Who am I
@@ -10,3 +10,6 @@
  3.Execute
  Script adds execute permission to the owner of the file "hello"
 
+4.Multiple permissions
+The script adds execute permission to the owner and the group owner, and read permission to other users,
+to the file "hello"
